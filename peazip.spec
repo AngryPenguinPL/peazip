@@ -11,7 +11,7 @@ Source0:	https://sourceforge.net/projects/peazip/files/%{version}/%{name}-%{vers
 # configure to run in users home appdata
 Source1:	altconf.txt
 BuildRequires:	dos2unix
-BuildRequires:	lazarus >= 1.4.2
+BuildRequires:	lazarus >= 1.2.0
 BuildRequires:	qt4pas-devel
 BuildRequires:	qt4-devel
 # BuildRequires:	qtwebkit-devel
