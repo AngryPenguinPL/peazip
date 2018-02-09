@@ -12,8 +12,8 @@ Source0:	https://sourceforge.net/projects/peazip/files/%{version}/%{name}-%{vers
 Source1:	altconf.txt
 BuildRequires:	dos2unix >= 7.3
 BuildRequires:	lazarus >= 1.2.0
-BuildRequires:	qt4pas-devel
-BuildRequires:	qt4-devel
+# BuildRequires:	qt4pas-devel
+# BuildRequires:	qt4-devel
 # BuildRequires:	qtwebkit-devel
 BuildRequires:	icoutils
 Requires:	p7zip
