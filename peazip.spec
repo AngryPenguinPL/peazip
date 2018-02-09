@@ -10,7 +10,7 @@ Url:		http://www.peazip.org
 Source0:	https://sourceforge.net/projects/peazip/files/%{version}/%{name}-%{version}.src.zip
 # configure to run in users home appdata
 Source1:	altconf.txt
-BuildRequires:	dos2unix
+BuildRequires:	dos2unix >= 7.3
 BuildRequires:	lazarus >= 1.2.0
 BuildRequires:	qt4pas-devel
 BuildRequires:	qt4-devel
