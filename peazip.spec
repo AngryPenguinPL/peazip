@@ -2,7 +2,7 @@
 
 Summary:	File and archive manager
 Name:		peazip
-Version:	6.5.1
+Version:	6.6.0
 Release:	1
 License:	LGPLv3+
 Group:		File tools
