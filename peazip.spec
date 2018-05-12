@@ -13,6 +13,7 @@ Source1:	altconf.txt
 BuildRequires:	icoutils
 BuildRequires:	lazarus >= 1.0.8
 BuildRequires:	pkgconfig(gtk+-2.0)
+BuildRequires:  qt4pas-devel
 Requires:	p7zip
 Requires:	upx >= 3.09
 
